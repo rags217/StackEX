@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StackEX</string>
+    <string name="user">User</string>
+    <string name="reputation">Reputation</string>
+    <string name="badges">Badges</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="location">Location</string>
+    <string name="creation_date">Creation date</string>
+    <string name="search">Search</string>
+    <string name="enter_name">Enter user\'s name</string>
+    <string name="search_by">Search by user\'s name to view result</string>
+    <string name="status_searching">Searching . . .</string>
+    <string name="status_empty">No search result found for the query</string>
+    <string name="status_error">Error in retrieving a response</string>
+    <string name="status_unknown_host">Unable to reach the server. Check your internet connection and try again later</string>
+    <string name="status_nw_error">Network error occurred. Check your internet connection</string>
+
+</resources>
